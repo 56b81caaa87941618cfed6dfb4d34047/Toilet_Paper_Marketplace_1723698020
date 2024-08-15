@@ -6,5 +6,9 @@
     {
         "level": 1,
         "task_description": "change the background to be bright yellow"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: change the background to be bright yellow\nAI: Got it, I'll change the background to bright yellow.\nUser: change the background image to be video game themed\nAI: Got it, I'm working on changing the background to video game theme.\nUser: change the background image to be mushroom themed\nAI: Got it, changing the background image to a mushroom theme.\nThis is the user's current request of changes to be made: change the background to be video game themed"
     }
 ]
