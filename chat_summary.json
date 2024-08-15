@@ -18,5 +18,11 @@
         "content": "Got it, I'll change the background to bright yellow.",
         "timestamp": "15082024051903",
         "message_id": "guest15082024051903"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the bright yellow to be a solid color or a gradient with another color?\", \"option1\": \"Solid bright yellow\", \"option2\": \"Gradient with another color\"}, {\"question 2\": \"Is there a specific shade of bright yellow you have in mind, or would you like us to suggest a few options based on the most visually appealing web standards?\", \"option1\": \"I have a specific shade in mind\", \"option2\": \"Please suggest a few options\"}], \"input_token_count\": 258, \"output_token_count\": 113, \"time_taken\": \"0:00:02.857885\"}",
+        "timestamp": "15082024051908",
+        "message_id": "guest15082024051903"
     }
 ]
