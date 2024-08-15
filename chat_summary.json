@@ -48,5 +48,11 @@
         "content": "change the background image to be mushroom themed",
         "timestamp": "15082024170453",
         "message_id": "guest15082024170453"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, changing the background image to a mushroom theme.",
+        "timestamp": "15082024170454",
+        "message_id": "guest15082024170453"
     }
 ]
