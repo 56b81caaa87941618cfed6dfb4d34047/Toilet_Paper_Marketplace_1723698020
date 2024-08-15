@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "change the background image to be mushroom themed",
+        "message_id": "guest15082024170453",
+        "timestamp": "15082024170453",
+        "component_file_name": "purple_background_cta_component_1723698023",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, I'm working on changing the background to video game theme.",
         "message_id": "guest15082024170129",
