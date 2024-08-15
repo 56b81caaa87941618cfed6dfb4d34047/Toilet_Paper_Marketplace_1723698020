@@ -36,5 +36,11 @@
         "content": "change the background image to be video game themed",
         "timestamp": "15082024170129",
         "message_id": "guest15082024170129"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, I'm working on changing the background to video game theme.",
+        "timestamp": "15082024170130",
+        "message_id": "guest15082024170129"
     }
 ]
