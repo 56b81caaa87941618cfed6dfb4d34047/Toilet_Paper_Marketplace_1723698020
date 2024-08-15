@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the bright yellow to be a solid color or a gradient with another color?\", \"option1\": \"Solid bright yellow\", \"option2\": \"Gradient with another color\"}, {\"question 2\": \"Is there a specific shade of bright yellow you have in mind, or would you like us to suggest a few options based on the most visually appealing web standards?\", \"option1\": \"I have a specific shade in mind\", \"option2\": \"Please suggest a few options\"}], \"input_token_count\": 258, \"output_token_count\": 113, \"time_taken\": \"0:00:02.857885\"}",
         "timestamp": "15082024051908",
         "message_id": "guest15082024051903"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement a color theme toggle for light and dark modes with user preferences memory\", \"checked\": true}, {\"feature\": \"Add a customizable background option in user settings for personalization\", \"checked\": false}, {\"feature\": \"Incorporate an accessibility feature to adjust text color for better visibility on the new background\", \"checked\": true}, {\"feature\": \"Implement an interactive background feature with subtle animations or patterns relevant to toilet paper products\", \"checked\": false}, {\"feature\": \"Design a feedback pop-up to gather user opinions on the new UI changes including the bright yellow background\", \"checked\": true}, {\"feature\": \"Introduce an auto-adjust feature that changes the background brightness based on the time of day\", \"checked\": false}], \"input_token_count\": 212, \"output_token_count\": 154, \"time_taken\": \"0:00:03.936285\"}",
+        "timestamp": "15082024051909",
+        "message_id": "guest15082024051903"
     }
 ]
